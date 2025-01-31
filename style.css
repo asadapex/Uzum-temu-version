@@ -23,4 +23,11 @@ footer {
 
 .footer-section p {
     margin: 5px 0;
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user {
+    display: flex;
 }
