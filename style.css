@@ -23,6 +23,8 @@ footer {
 
 .footer-section p {
     margin: 5px 0;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -30,4 +32,36 @@ footer {
 
 .user {
     display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.user i{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.saralangan {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.saralangan i{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.savat {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.savat i{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-right: 5px;
 }
